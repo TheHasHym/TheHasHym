@@ -1,4 +1,4 @@
 - 💼 Senior Network Reliability Engineer, empowering network engineers through automation
 - 🛠️ I love building tools and automations that make everyone’s day-to-day smoother
 - 🌱 Always learning, always improving
-- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/hassevh/) or reach me via [Email](hassevgaard@gmail.com)
+- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/hassevh/) or via [Email](hassevgaard@gmail.com)
