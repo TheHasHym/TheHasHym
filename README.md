@@ -1,3 +1,4 @@
-- 💼 Network Engineer turned Network Automation Engineer
-- 💻 I’m currently working on getting good
-- 🌱 I’m currently learning everything related to Networking, Linux and programming
+- 💼 Senior Network Reliability Engineer, empowering network engineers through automation
+- 🛠️ I love building tools and automations that make everyone’s day-to-day smoother
+- 🌱 Always learning, always improving
+- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/hassevh/) or reach me via [Email](hassevgaard@gmail.com)
